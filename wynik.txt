@@ -1,0 +1,12 @@
+filmy wspolne:
+Matrix
+Titanic
+Shrek
+
+tylko w pliku  1:
+Avatar
+Interstellar
+
+tylko w pliku 2:
+Kot w butach
+
